@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.626,=C:\Users\Лев\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.364,C:\Users\Лев\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Лев\Documents\main\проекты\BounceMan\BounceMan.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.726,C:\Users\Лев\Documents\Embarcadero\Studio\Projects\Unit2.fmx=C:\Users\Лев\Documents\main\проекты\BounceMan\From.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.726,C:\Users\Лев\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Лев\Documents\main\проекты\BounceMan\From.pas</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+	<MobileDevice>iPad-iOSSimulator</MobileDevice>
+</BorlandProject>
